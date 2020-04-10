@@ -40,4 +40,3 @@ Credits
 9. RED_HAWK   =====> https://github.com/Tuhinshubhra/RED_HAWK
 10. HASH-BUSTER=====> https://github.com/s0md3v/Hash-Buster 
 11. Breacher  ======> https://github.com/s0md3v/Breacher 
-KODE: 30813663
