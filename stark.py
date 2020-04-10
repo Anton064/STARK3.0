@@ -20,7 +20,7 @@ def menu():
 			       3.0
  >> CREATED BY:ANIKET STARK and Unknown_Girl
  >> Youtube:   GamersTech330
- >> Instagram: @aniketstark330
+ >> Instagram: @gafur_luna
  >>>ONLY FOR TERMUX<<<
 
  ===============================================
